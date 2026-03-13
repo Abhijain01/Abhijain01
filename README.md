@@ -127,19 +127,7 @@ MongoDB • Express • React • Node.js • Cloudinary • Vercel • Render
 
 ---
 
-## AI Stock Trend Analyzer
 
-Deep learning application predicting stock market trends.
-
-Features
-
-• Time-series forecasting using GRU neural networks  
-• Interactive dashboard for stock analysis  
-• Data preprocessing and visualization pipelines
-
-Tech Stack
-
-Python • TensorFlow • Streamlit • Finance APIs
 
 ---
 
