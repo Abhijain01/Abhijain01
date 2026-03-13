@@ -29,37 +29,46 @@ My goal is to build **scalable AI systems that solve real-world problems.**
 
 ---
 
-# Technical Skills
+---
 
-### Languages
+# 🛠 My Technical Toolkit
 
-Python • SQL • Java • JavaScript
+## 🌐 Languages
 
-### Data Engineering & Big Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-PySpark • Apache Spark • Hadoop • ETL Pipeline Design • Data Modeling
+---
 
-### Cloud & Databases
+## 🧠 Data & AI
 
-Microsoft Azure • AWS (S3, EC2) • MongoDB • MySQL • PostgreSQL
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![EDA](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
 
-### Machine Learning
+---
 
-TensorFlow • Keras • Scikit-learn • Pandas • NumPy
+## ☁ Cloud & DevOps
 
-### Generative AI
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github)
 
-Large Language Models (LLMs)  
-Prompt Engineering  
-OCI Generative AI Service
+---
 
-### BI & Visualization
+## 🗄 Databases & Web
 
-Power BI • Tableau • Excel
-
-### Tools & Technologies
-
-Git • GitHub • Docker • REST APIs • Streamlit • Flask
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ---
 
